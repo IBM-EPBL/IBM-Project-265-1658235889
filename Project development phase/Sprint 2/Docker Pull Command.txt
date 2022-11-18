@@ -1,0 +1,1 @@
+docker pull duvvurulokeshreddy/customer-care-registry
